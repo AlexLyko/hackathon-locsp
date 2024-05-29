@@ -1,0 +1,15 @@
+
+DB_INFOS = {
+    "host": "localhost",
+    "dbname": "ofb",
+    "user": "admin",
+    "password": "xxxxx",
+    "port": "5432"
+}
+
+OUTPUT_PROJ = "3857"
+
+app = {}
+secret_key = "a_random_secret_key_$%#!@"
+
+TRACE_SQL = True
